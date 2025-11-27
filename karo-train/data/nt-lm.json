@@ -1,0 +1,12 @@
+[
+    {
+        "from": "Nowy Targ",
+        "to": "Jablonka",
+        "distance": "56.12"
+    },
+    {
+        "from": "Jablonka",
+        "to": "Lipnica Mala",
+        "distance": "100.88"
+    }
+]
